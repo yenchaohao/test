@@ -13,6 +13,7 @@ public class test {
 		System.out.println(date);
 		System.out.println(new Date(date.getTime()));
 		System.out.println(sdf.format(date));
+		System.out.println(sdf.format(date));
 	}
 
 }
